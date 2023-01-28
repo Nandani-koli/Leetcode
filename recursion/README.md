@@ -21,3 +21,7 @@
 - [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/submissions/886352241/)
 - [Flood Fill](https://leetcode.com/problems/flood-fill/submissions/886369948/)
 
+## Date :- 28-01-2023
+- [Word Search](https://leetcode.com/problems/word-search/submissions/886741952/)
+- [N-Queen](https://leetcode.com/problems/n-queens/submissions/886785506/)
+- [Rat-In-Maze]()
