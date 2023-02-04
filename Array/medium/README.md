@@ -2,7 +2,7 @@
 
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/888760749/)
 - [3Sum](https://leetcode.com/problems/3sum/submissions/889338563/)
-- [Product of array element except slef](https://leetcode.com/problems/product-of-array-except-self/submissions/889352816/)
+- [Product of array element except self](https://leetcode.com/problems/product-of-array-except-self/submissions/889352816/)
 
 ## Date :- 1-02-2023
 
