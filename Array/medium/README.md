@@ -15,3 +15,13 @@
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/890056318/)
 - [Container with most water](https://leetcode.com/problems/container-with-most-water/submissions/890015410/)
 - [Rotate Image](https://leetcode.com/problems/rotate-image/submissions/890070093/)
+
+## Date :- 3-02-2023
+
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/890732990/)
+- [Game of life](https://leetcode.com/problems/game-of-life/submissions/890809712/)
+
+## Date :- 4-02-2023
+
+- [Pairs of songs with duration divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/submissions/891142756/)
+- [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number/submissions/891196840/)
